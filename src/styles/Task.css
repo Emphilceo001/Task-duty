@@ -1,0 +1,36 @@
+.form1 {
+  position: relative;
+}
+
+.pad1 {
+  position: absolute;
+  bottom: 50px;
+  background-color: white;
+  left: 15px;
+}
+
+.lab1 {
+  position: absolute;
+  bottom: 270px;
+  background-color: white;
+  left: 15px;
+}
+
+.text1 {
+  position: relative;
+}
+
+.tag1 {
+  position: absolute;
+  bottom: 65px;
+  left: 15px;
+  background-color: white;
+}
+
+.del {
+  position: relative;
+}
+
+.ark {
+  color: #974fd0;
+}

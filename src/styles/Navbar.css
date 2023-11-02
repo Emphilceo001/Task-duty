@@ -1,0 +1,9 @@
+.img {
+  display: none;
+}
+
+@media screen and (min-width: 760px) {
+  .img {
+    display: block;
+  }
+}

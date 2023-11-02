@@ -1,0 +1,29 @@
+.para1 {
+  color: #974fd0;
+}
+
+.div3 {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid black;
+}
+
+.btn2 {
+  background-color: #974fd0;
+  border: none;
+  border-radius: 2px;
+  padding: 0 0.5rem 0 0.5rem;
+  color: white;
+}
+
+.btn3 {
+  background-color: white;
+  border: 1px solid #974fd0;
+  border-radius: 2px;
+  padding: 0 0.5rem 0 0.5rem;
+  color: #974fd0;
+}
+
+.col {
+  color: #974fd0;
+}
